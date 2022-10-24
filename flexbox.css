@@ -31,7 +31,7 @@
 
 .header-container {
     color: #5995da;
-    background-color: #d6e9fe;
+    background-color: pink;
     display: flex;
     justify-content: center;
 }
@@ -95,7 +95,7 @@ order: -1;
 
 .footer-item {
     border: 1px solid white;
-    background-color: #d6e9fe;
+    background-color: pink;
     height: 200px;
     flex: 1;
 }
